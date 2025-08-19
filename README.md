@@ -1,2 +1,2 @@
 # DigitRecognizer
-Hnadwritten digit recognizer made using oython
+Handwritten digit recognizer made using python
